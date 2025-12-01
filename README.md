@@ -1,4 +1,4 @@
-![BT logo](/storage/emulated/0/form/b.png)
+![BT logo](b.png)
 # PAALALA:
 ANG SCRIPT NA ITO AY **WALANG LICENCE** AT PWEDENG:
 * GAMITIN
